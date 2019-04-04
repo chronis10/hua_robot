@@ -4,3 +4,4 @@ I am starting from today to upload all the stl files and python scipts for my ro
 
 My robot designed to care a Kinect V1 device
 for image proccesing and depth scanning. Have a lcd 7.0 inch tft screem for human interaction and UI. 
+
