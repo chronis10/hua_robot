@@ -1,4 +1,5 @@
 # hua_robot
+### A 2 wheels robot with Raspberry Pi, touchscreen, and Kinect as basic camera for navigation 
 3D Printed robot designed by me for my team of robotics of Harokopio University of Athens.
 I am starting from today to upload all the stl files and python scipts for my robot. 
 
