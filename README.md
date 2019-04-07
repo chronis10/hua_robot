@@ -4,3 +4,13 @@ I am starting from today to upload all the stl files and python scipts for my ro
 
 In progress extensine documentations and more infos....
 
+
+### Chest with space for Original Raspbery Pi touchscreen and hole for Raspberry Pi camera or mic.
+![](/stl_files/chest.png)
+
+### Chest back plate.
+![](/stl_files/chest_back_plate.png)
+
+### Modular pilon.
+![](/stl_files/pilon.png)
+
