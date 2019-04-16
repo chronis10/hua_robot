@@ -4,7 +4,8 @@
 I am starting from today to upload all the stl files and python scipts for my robot. 
 
 In progress extensine documentations and more infos....
-
+### The robot full assembled.
+![](/full_assembled.jpg)
 
 ### Chest with space for Original Raspbery Pi touchscreen and hole for Raspberry Pi camera or mic.
 ![](/stl_files/chest.png)
