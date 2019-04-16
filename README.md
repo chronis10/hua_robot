@@ -7,7 +7,7 @@ In progress extensine documentations and more infos....
 ### The robot full assembled.
 ![](/full_assembled.jpg)
 
-### Chest with space for Original Raspbery Pi touchscreen and hole for Raspberry Pi camera or mic.
+### Chest with space for Raspbery Pi touchscreen and hole for Raspberry Pi camera or mic.
 ![](/stl_files/chest.png)
 
 ### Chest back plate.
